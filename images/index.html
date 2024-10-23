@@ -3,14 +3,125 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text and Video Layout with Play Icon</title>
+    <title>404 - Page Not Found</title>
+    <style>
+        /* Reset default browser styles */
+        body, h1, p, a {
+            margin: 0;
+            padding: 0;
+            text-decoration: none;
+            color: inherit;
+        }
 
-  </head>
+        /* Basic page styles */
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            font-family: 'Arial', sans-serif;
+            color: #ffffff;
+            text-align: center;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 10em;
+            margin-bottom: 0;
+            background: linear-gradient(135deg, #72edf2 0%, #5151e5 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        p {
+            font-size: 1.5em;
+            margin: 20px 0;
+            opacity: 0.8;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 15px 30px;
+            margin-top: 20px;
+            background-color: #ffffff;
+            color: #f5576c;
+            font-size: 1.2em;
+            font-weight: bold;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #f5576c;
+            color: #ffffff;
+            transform: scale(1.05);
+        }
+
+        .btn:active {
+            transform: scale(1);
+        }
+
+        .floating-circle {
+            position: absolute;
+            border-radius: 50%;
+            opacity: 0.3;
+            animation: float 5s ease-in-out infinite;
+        }
+
+        .circle1 {
+            width: 200px;
+            height: 200px;
+            background-color: #ffffff;
+            top: 20%;
+            left: 15%;
+            animation-duration: 6s;
+        }
+
+        .circle2 {
+            width: 150px;
+            height: 150px;
+            background-color: #72edf2;
+            top: 50%;
+            right: 10%;
+            animation-duration: 8s;
+        }
+
+        .circle3 {
+            width: 300px;
+            height: 300px;
+            background-color: #5151e5;
+            bottom: 15%;
+            left: 50%;
+            animation-duration: 7s;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-20px);
+            }
+        }
+    </style>
+</head>
 <body>
-
     <div class="container">
-      404
-     </div>
+        <h1>404</h1>
+        <p>Oops! The page you're looking for isn't here.</p>
+        <a href="/" class="btn">Go Back</a>
+    </div>
 
+    <!-- Decorative Floating Circles -->
+    <div class="floating-circle circle1"></div>
+    <div class="floating-circle circle2"></div>
+    <div class="floating-circle circle3"></div>
 </body>
 </html>
