@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Samplify - Autosampler Probe system</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Samplify - make sampling simpler! We introduce an automated sampling system to collect samples periodically with high accuracy and safety">
+	<meta name="keywords" content="samplify, sampling, autosampler, probe, vials, easysampler, sielc, alltesta">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+	<link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+<header id="start">  Tel: (847) 229-2629  |  Fax: (847) 655-6079  |  Address: 804 Seton Court, Wheeling, IL USA 60090 </header>
+
+<div class="navbar">
+	<a href="./app" class="btn-menu-login">Log in</a>
+        <div class="menu-hide"><div class="menu">
+            <a href="#specs">Specifications</a>
+            <a href="#soft">Software</a>
+            <a href="#brochure">Brochure</a>
+            <a href="#video">Video</a>
+        </div></div>
+        <div class="logo">
+            <img src="./images/simple5.svg" alt="S-shaped vessel" class="logo-svg">
+				<a href="#start" style="text-decoration: none;"><span class="logo-text">amplify</span></a>
+        </div>
+        <a href="https://sielc.com/" class="btn-new"><img src="./images/logo-sielc-blue.svg" style="height: 30px;" alt="Sielc logo" class="filter-green"></a>
+</div>
+
+
+
+	<div class="fullscreen-bg">
+		<div class="overlay">
+			<h1>Sampling solutions start here!</h1>
+			<h2>Samplify offers an automated device capable of collecting samples from closed or open vessels periodically, with high accuracy and safety.</h2>
+	<div class="buttons-div">
+		<a href="#features" class="button-6">Learn more</a>   <a href="#contact" class="button-6bl">Order</a>
+		<p></p>
+		<div class="btn-28-hide"><a href="#about" class="button-28"><img src="./images/keyboard_arrow_down.svg"  alt="Button down" style="height: 70px;" class="filter-btn_down"></a></div>
+		
+	</div>			
+		</div>
+		
+
+
+
+	    <video loop muted autoplay poster="images/mobile-static.jpg" class="fullscreen-bg__video">
+	        <source src="video/frontpage4.7lessmedium.mp4" type="video/mp4">
+	        <source src="video/frontpage4.7medium.webm" type="video/webm">
+	    </video>
+	</div>
+	
+
+
+<div class="wave"></div>
+	<div class="content">
+
+<p class="g-space-wave"></p>
+<h2 class="g-h2" id="features">The <span class="g-underline">Samplify</span> technology is <span class="g-italic">unique</span> and unparalled in flexibility, precision, and applicability</h2>
+
+<p class="g-space"></p>
+
+<h4 class="g-h4">Key Features of the Device</h4>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="#1">
+      <img src="images/g-vials-compatible-new.png" alt="Vials from Autosampler" width="600" height="400">
+    </a>
+    <div class="desc"><h3 class="g-h3">Standard vials</h3>Universal collection vials are compatible with HPLC and GC</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="#2">
+      <img src="images/g-droplets-new-raw1.png" alt="Sample volume droplet" width="600" height="400">
+    </a>
+    <div class="desc"><h3 class="g-h3">Variable sample volume</h3>Unique design allows user selection of sample volume to be collected</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="#3">
+      <img src="images/g-dilutions-new.png" alt="Different dilutions" width="600" height="400">
+    </a>
+    <div class="desc"><h3 class="g-h3">Variable dilution ratio</h3>Desired dilution ratios with a solvent are readily achieved</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="#4">
+      <img src="images/g-shake-new4.png" alt="Shaking autosampler" width="600" height="400">
+    </a>
+    <div class="desc"><h3 class="g-h3">Automatic mixing</h3>Automated vial shaking for fast mixing of samples with reagents</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+<div style="padding-top: 2%;"></div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="#5">
+      <img src="images/g-tray-new8.png" alt="Tray autosampler" width="600" height="400">
+    </a>
+    <div class="desc"><h3 class="g-h3">Up to 96 vessels</h3>Can accommodate 48 or 96 samples at one time</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="#6">
+      <img src="images/g-size-new.png" alt="Small size" width="600" height="400">
+    </a>
+    <div class="desc"><h3 class="g-h3">Compact Probe</h3>Probe can be placed with the smallest vessel into refrigerator</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="#7">
+      <img src="images/g-cloud-remote-new2.png" alt="Remote monitoring" width="600" height="400">
+    </a>
+    <div class="desc"><h3 class="g-h3">Remote control</h3>All processes may be controlled and monitored remotely</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a href="#8">
+      <img src="images/g-pc-code-adj-lite.png" alt="OEM " width="600" height="400">
+    </a>
+    <div class="desc"><h3 class="g-h3">OEM and API</h3>Interfacing available through API or OEM </div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+
+<div style="padding:1%;" id="about">
+  <p class="gEnd-p">Ultra-compact system allows for ready placement in controlled environments (e.g., refrigerators). Customization of standard configuration is available on request.</p>
+</div>
+<div style="padding:3%;"></div>
+<!--h4 class="g-h4" style="visibility: hidden;">A few things more...</h4-->
+
+        <div class="box-gif">
+            <img src="./images/GIF1O.gif" alt="GIF Image">
+            <div class="text">
+                <h2>Simplified sampling</h2>
+
+<p style="color: #f6f6f6;">	Samples are collected accurately despite difficult conditions such as high temperatures or corrosive solutions. The small system form factor also allows the entire system to be placed in a refrigerator or climate-controlled chamber.</p> 
+<p style="color: #f6f6f6;" class="box-gif-text-hide2">Samples are collected in standard HPLC or GC vials, or 96-well plates. Collection trays or plates can then be transferred directly to chromatographic system for sample analysis.</p>
+<p style="color: #f6f6f6;" class="box-gif-text-hide">Flexibility of the Samplify system offers straightforward sample collection in challenging environments and applications, including high temperatures, toxic solutions, gas pipelines, and liquid process streams.</p>
+            </div>
+        </div>
+
+
+<div style="padding:1%;" id="video">
+<p class="gEnd-p">To fully understand a chemical reaction, accurate and reproducible sampling is essential. With Samplify, samples may be collected overnight or otherwise – unattended and automatically – to provide a true, representative snapshot of the reaction at any point, while offering customizable sample quench and dilution volumes. Manual sampling is thus totally eliminated. 
+</p>
+</div>
+<div style="padding:2%;"></div>
+<h4 class="g-h4">Demonstration Video</h4>
+
+<div class="promo-container">
+    <div class="promo-text">Have you seen our Demonstration video?</div>
+    
+    <div class="promo-video">
+        <div class="video-thumbnail-promo" data-video-id="-65tLbkdyEo" data-title="Samplify introduction promo" data-description="Make sampling simpler with Samplify!">
+                <img class="video-preview-promo" src="./images/promo-preview3.jpg" alt="Video 1">
+		<img class="play-icon" src="./images/play_circle.svg" alt="Play Icon" style="width: 140px; top: 40%; filter: brightness(0) saturate(100%) invert(100%) sepia(38%) saturate(0%) hue-rotate(160deg) brightness(105%) contrast(100%);"> <!--span class="play-icon">WATCH</span-->
+                <div class="youtube-overlay-promo" style="bottom: 0%;">WATCH DEMO</div>
+            </div>
+    </div>
+</div>
+<h4 class="g-h4">Additional videos</h4>
+	
+<div class="full-youtube-container">
+<div class="arrow left" id="scrollLeft">&lt;</div>
+<div class="youtube-gallery-container" id="elemscrollgallery">
+        <div class="youtube-gallery">
+            <div class="video-thumbnail" data-video-id="ippXumLIJJA" data-title="Small Autosampler and Universal Liquid Handling Device" data-description="Description of a smallest and very affordable  liquid handling Alltesta device - autosampler.">
+                <img class="video-preview" src="https://i.ytimg.com/vi/ippXumLIJJA/hqdefault.jpg" alt="Video 1">
+		<img class="play-icon" src="./images/play_circle.svg" alt="Play Icon" >
+                <div class="youtube-overlay">Play</div>
+                <div class="video-info">
+                    <h3>Autosampler intro</h3>
+                    <p>Universal Liquid Handling Device intro</p>
+                </div>
+            </div>
+	    <div class="video-thumbnail" data-video-id="0S8DKMh-yhM" data-title="Walkthrough of the Alltesta™ Analyzer HPLC System" data-description="The details about each component of SIELC Technologies' Alltesta™ Analyzer.">
+                <img class="video-preview" src="https://img.youtube.com/vi/0S8DKMh-yhM/hqdefault.jpg" alt="Video 2">
+		<img class="play-icon" src="./images/play_circle.svg" alt="Play Icon" >
+                <div class="youtube-overlay">Play</div>
+                <div class="video-info">
+                    <h3>Alltesta™ Analyzer HPLC System</h3>
+                    <p>Details about components of Alltesta™ Analyzer</p>
+                </div>
+            </div>
+            <div class="video-thumbnail" data-video-id="e8TVi3icjcI" data-title="Reactor Sampling Demo" data-description="This video demonstrates the operation of the Alltesta autosampler as a reactor or fermenter  sampling device.">
+                <img class="video-preview" src="https://i.ytimg.com/vi/e8TVi3icjcI/hqdefault.jpg" alt="Video 3">
+		<img class="play-icon" src="./images/play_circle.svg" alt="Play Icon" >
+                <div class="youtube-overlay">Play</div>
+                <div class="video-info">
+                    <h3>Reactor Sampling Demo</h3>
+                    <p>Alltesta autosampler as a reactor or fermenter</p>
+                </div>
+            </div>
+            <div class="video-thumbnail" data-video-id="RTg0myKls_I" data-title="Device Description of the Alltesta™ Analyzer HPLC System" data-description="We are proud to present our HPLC System - the Alltesta™ Analyzer!">
+                <img class="video-preview" src="https://img.youtube.com/vi/RTg0myKls_I/hqdefault.jpg" alt="Video 4"><!-- maxresdefault.jpg -->
+		<img class="play-icon" src="./images/play_circle.svg" alt="Play Icon" >
+                <div class="youtube-overlay">Play</div>
+                <div class="video-info">
+                    <h3>Desription of Alltesta</h3>
+                    <p>Description of Alltesta Analyzer HPLC System</p>
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+<div class="arrow right" id="scrollRight">&gt;</div>
+</div>
+    <div class="modal" id="videoModal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="videoPlayer"></div>
+            <div class="video-info">
+                <h2 id="videoTitle">Video Title</h2>
+                <p id="videoDescription">Video description goes here.</p>
+            </div>
+        </div>
+    </div>
+
+<div style="padding:1%;" id="specs">
+<p class="gEnd-p" style="visibility: hidden;">To fully understand a chemical reaction, precise sampling is essential. Imagine if you could (automatically) collect samples overnight or 
+during other nessesary tasks remotely, taking a correctly representative snapshot from any reaction with customizable sample, quench and diluent volumes. 
+Our device makes this possible replacing manual sampling. 
+</p>
+</div>
+
+
+
+<h4 class="g-h4">Samplify Specifications</h4>
+<div class="table-img">
+	<img src="./images/probe-horizontal-new-lite.png" alt="Probe horizontal">
+</div>
+<table>
+        <thead>
+            <tr>
+                <th>Parameter</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Instrument size</td>
+                <td>6 x 6.5 x 7 inch (15 x 16 x 17 cm)</td>
+            </tr>
+            <tr>
+                <td>Weight</td>
+                <td>5 lb (2.3 kg)</td>
+            </tr>
+            <tr>
+                <td>Vial Capacity Options</td>
+                <td>48 vial plate/96 well plate</td>
+            </tr>
+            <tr>
+                <td>Pressure Max</td>
+                <td>250 psi/ 14 bar (4000 µL volume)</td>
+            </tr>
+            <tr>
+                <td>Syringe Capacity Options</td>
+                <td>4000 µL</td>
+            </tr>
+            <tr>
+                <td>Valve Options</td>
+                <td>7x6</td>
+            </tr>
+            <tr>
+                <td>Volume Accuracy</td>
+                <td>1 µL (4000 µL volume)</td>
+            </tr>
+            <tr>
+                <td>Syringe draw/refill rates</td>
+                <td>48,000 µL/min</td>
+            </tr>
+            <tr>
+                <td>Communication</td>
+                <td>USB (type B)  COMM port</td>
+            </tr>
+            <tr>
+                <td>Power</td>
+                <td>24 V</td>
+            </tr>
+		<tr>
+                	<td>Contact with liquid</td>
+                	<td>Stainless Steel 316 (316L), PEEK, PTFE, Vespel</td>
+            </tr>
+        </tbody>
+    </table>
+		
+<div style="padding:4%;" id="brochure">
+<!--p class="gEnd-p" style="visibility: hidden;">To fully understand a chemical reaction, precise sampling is essential. Imagine if you could (automatically) collect samples overnight or 
+during other nessesary tasks remotely, taking a correctly representative snapshot from any reaction with customizable sample, quench and diluent volumes. 
+Our device makes this possible replacing manual sampling. 
+</p-->
+</div>
+<!--p>Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit!</p-->
+
+
+<h4 class="g-h4">Sources</h4>
+
+<div class="source-container">
+        <div class="source-text-large">Want to know more information about this device?</div>
+        <div class="source-button-flex"><a href="./Samplify_Manual.pdf" class="source-button-click" target="_blank">
+	<div class="source-book">
+        	<div class="source-cover-gloss">
+            		<img class="source-cover-gloss" src="./images/manual.png" alt="Manual Cover">
+        	</div>
+    	</div>
+	<p></p><div class="source-button-click-text">Download Manual</div>
+	</a></div>
+        <div class="source-text-narrow">Take a quick look at Brochure<br />or<br /> see the Manual</div>
+        <div class="source-button-flex"><a href="./Samplify_Brochure.pdf" class="source-button-click" target="_blank">
+	<div class="source-book">
+        	<div class="source-cover-gloss">
+            		<img class="source-cover-gloss" src="./images/brochure.png" alt="Brochure Cover" style=";">
+        	</div>
+    	</div>
+	<p></p><div class="source-button-click-text">Download Brochure</div>
+	</a></div>
+    </div>
+
+<div style="padding:5%;" id="soft"></div>
+<h4 class="g-h4">Software</h4>
+
+<div class="soft-container">
+        <div class="soft-text-block">Are you looking for software to control the device?</div>
+        <div class="soft-image-block">
+            <img src="./images/cloud.png" alt="Background-cloud" class="soft-background-image">
+            <img src="./images/mac-app.png" alt="macbook" class="soft-corner-image soft-mac">
+            <img src="./images/server-front2.png" alt="servers" class="soft-corner-image soft-server">
+            <img src="./images/ipad-cloud.png" alt="ipad" class="soft-corner-image soft-ipad">
+        </div>
+        <div class="soft-button-block">
+            <a href="#contact" class="soft-button-click source-button-height" target="_blank">
+		<div class="soft-logo-btn">
+            			<img class="soft-logo-btn" src="./images/logo-msft.png" alt="Microsoft">
+    		</div>
+		<div class="soft-button-click-text">Download</div>
+		</a>
+		
+            <!--a href="./oops.html" class="soft-button-click source-button-height" target="_blank"-->
+			<a href="#contact" class="soft-button-click source-button-height" target="_blank">
+		<div class="soft-logo-btn">
+            			<img class="soft-logo-btn" src="./images/logo-apple.png" alt="Apple">
+    		</div>
+		<div class="soft-button-click-text">Download</div>
+		</a>
+		<a href="./app" class="soft-button-click source-button-height button-right" target="_blank">
+		<div class="soft-logo-btn">
+            			<img class="soft-logo-btn" src="./images/logo-web.png" alt="Web" style="padding-top: 80%;">
+    		</div>
+		<p></p><div class="soft-button-click-text">Go to Web version</div>
+		</a>
+
+        </div>
+    </div>
+
+<div style="padding:1%;" id="contact">
+<p class="gEnd-p" style="visibility: hidden;">To fully understand a chemical reaction, precise sampling is essential. Imagine if you could (automatically) collect samples overnight or during other nessesary 
+</p>
+	</div>
+
+
+
+<h4 class="g-h4">Contact us</h4>
+
+<div class="button-buy-container">
+	<span class="want-to-order">Want to order?</span>
+        <a href="tel:8472292629" class="button-callus button-buy">
+            <span>Call us Mon - Fri on the tel.:</span>
+             +1 (847) 229-2629
+        </a>
+        <span class="or-text">or</span>
+        <a href="mailto:mail@sielc.com" class="button-email button-buy">
+            <span>Send us an email:</span>
+            mail@sielc.com
+        </a>
+    </div>
+
+<p style="padding-top: 4%;"></p>
+<div class="contact-container">
+        <div class="contact-info-structure">
+	  <div class="contact-info">
+            <h2><i class="fas fa-phone"></i>Telephones:</h2>
+            <p>+1 (847) 229-2629 | Fax: +1 (847) 655-6079</p>
+            <h2><i class="fas fa-envelope"></i>Email:</h2>
+            <p>mail@sielc.com</p>
+            <h2><i class="fas fa-map-marker-alt"></i>Address: </h2>
+            <p>804 Seton Court, Wheeling, IL USA 60090</p>
+            <h2><i class="fas fa-share-alt"></i>Social media:</h2>
+            <div class="social-buttons">
+                <a href="https://www.facebook.com/SIELCTechnologies" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://www.linkedin.com/company/sielc-technologies" target="_blank" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                <a href="https://www.youtube.com/@sielctechnologies3054" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
+            </div>
+	  </div>
+        </div>
+        <div class="map">
+            <h2>Find us on map</h2>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5918.116257637936!2d-87.93115259999999!3d42.1276388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fb959b4150bb3%3A0x42093910206d0a41!2s804%20Seton%20Ct%2C%20Wheeling%2C%20IL%2060090!5e0!3m2!1sen!2sus!4v1724778607818!5m2!1sen!2sus" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    </div>
+
+<p style="height: 40px;"></p>
+<h4 class="g-h4">Our Clients</h4>
+
+<div class="customer-gallery-container">
+        <img src="./images/customers/merck.svg" alt="Merck">
+        <img src="./images/customers/metlertoledo.svg" alt="MT">
+	<img src="./images/customers/thermofisher.svg" alt="TF">
+        <img src="./images/customers/terray.svg" alt="Terray">
+	<img src="./images/customers/helmholtz.svg" alt="Helmholtz">
+        <picture style="margin: auto">
+  		<source srcset="./images/customers/bioanalytic.webp" type="image/webp" alt="Bioanalityc">
+		<img src="./images/customers/bioanalytic.png" alt="Bioanalityc-png">
+	</picture>
+        <img src="./images/customers/PEPSICO.png" alt="PepsiCo">
+	<picture style="margin: auto">
+  		<source srcset="./images/customers/leonardo.webp" type="image/webp" alt="DRS">
+		<img src="./images/customers/leonardo.png" alt="DRS-png">
+	</picture>
+        <img src="./images/customers/novonordisk-short.png" alt="Novo">
+    </div>
+<p class="gEnd-p"></p>
+<p style="height: 30px;"></p>
+
+<div id="tostartbtn"><img src="./images/keyboard_arrow_down.svg" alt="Button Up"></div>
+
+<footer>
+        Copyright © 2024 All rights reserved by Sielc. United States.
+<!--p> This is a marketing site, for any clarifications in the operation of the device, please contact us. We are not responsible for anything misunderstood or interpreted. Privacy - Policy - Terms of Use - Sales and Refunds - Legal</p-->
+    </footer>
+</div>
+
+
+
+
+<!-- Scripts for youtube preview -->
+<script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const thumbnails = document.querySelectorAll('.video-thumbnail-promo, .video-thumbnail');
+            const modal = document.getElementById('videoModal');
+            const closeBtn = document.querySelector('.close');
+            const videoPlayer = document.getElementById('videoPlayer');
+            const videoTitle = document.getElementById('videoTitle');
+            const videoDescription = document.getElementById('videoDescription');
+
+            thumbnails.forEach(thumbnail => {
+                thumbnail.addEventListener('click', () => {
+                    const videoId = thumbnail.getAttribute('data-video-id');
+                    const title = thumbnail.getAttribute('data-title');
+                    const description = thumbnail.getAttribute('data-description');
+
+                    videoPlayer.innerHTML = `<iframe src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+                    videoTitle.textContent = title;
+                    videoDescription.textContent = description;
+                    modal.style.display = 'flex';
+                });
+            });
+
+            closeBtn.addEventListener('click', () => {
+                modal.style.display = 'none';
+                videoPlayer.innerHTML = ''; // Stop the video when closing the modal
+            });
+
+            window.addEventListener('click', (event) => {
+                if (event.target === modal) {
+                    modal.style.display = 'none';
+                    videoPlayer.innerHTML = ''; // Stop the video when clicking outside
+                }
+            });
+        });
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>
+	$(function() {
+	$(window).scroll(function() {
+	if($(this).scrollTop() > 680) {
+	$('#tostartbtn').fadeIn();
+	} else {
+	$('#tostartbtn').fadeOut();
+	}
+	});
+	$('#tostartbtn').click(function() {
+	$('body,html').animate({scrollTop:0},500);
+	});
+	});
+</script>
+
+<!--script> // Если scroll-behavior: smooth; - не работает
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        const targetId = this.getAttribute('href');
+        const targetElement = document.querySelector(targetId);
+
+        if (targetElement) {
+            smoothScroll(targetElement);
+        }
+    });
+});
+
+function smoothScroll(targetElement) {
+    const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+    const startPosition = window.pageYOffset;
+    const distance = targetPosition - startPosition;
+    const duration = 100; // Продолжительность прокрутки в миллисекундах
+    let startTime = null;
+
+    function animation(currentTime) {
+        if (startTime === null) startTime = currentTime;
+        const timeElapsed = currentTime - startTime;
+
+        // Функция easeInOutQuad для ускорения и замедления
+        const run = easeInOutQuad(timeElapsed, startPosition, distance, duration);
+        window.scrollTo(0, run);
+
+        if (timeElapsed < duration) requestAnimationFrame(animation);
+    }
+
+    function easeInOutQuad(t, b, c, d) {
+        t /= d / 2;
+        if (t < 1) return c / 2 * t * t + b;
+        t=t-1;
+        return -c / 2 * (t * (t - 2) - 1) + b;
+    }
+
+    requestAnimationFrame(animation);
+}
+</script-->
+
+
+    <script>
+        document.getElementById('scrollRight').addEventListener('click', () => {
+            smoothScrollBy(document.getElementById('elemscrollgallery'), 400, 600);
+        });
+	document.getElementById('scrollLeft').addEventListener('click', () => {
+            smoothScrollBy(document.getElementById('elemscrollgallery'), -400, 600);
+        });
+        function smoothScrollBy(element, target, duration) {
+            const start = element.scrollLeft;
+            const startTime = performance.now();
+
+            function easeInOutQuad(t, b, c, d) {
+                t /= d / 2;
+                if (t < 1) return c / 2 * t * t + b;
+                t=t-1;
+                return -c / 2 * (t * (t - 2) - 1) + b;
+            }
+
+            function animateScroll() {
+                const now = performance.now();
+                const elapsed = now - startTime;
+                const nextPosition = easeInOutQuad(elapsed, start, target, duration);
+
+                element.scrollLeft = nextPosition;
+
+                if (elapsed < duration) {
+                    requestAnimationFrame(animateScroll);
+                } else {
+                    // Устанавливаем финальную позицию, чтобы избежать возможных погрешностей
+                    element.scrollLeft = start + target;
+                }
+            }
+
+            animateScroll();
+        }
+    </script>
+
+
+</body>
+</html>
+
+
+
+
+
